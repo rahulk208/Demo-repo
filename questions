@@ -1,0 +1,89 @@
+1. Tell me about your experience? 
+2. Tell me about the most recent projects you contributed in?
+3. What is your role in the project?
+4. What tools and technologies you worked with?
+5. Give the detailed explanation about the feature you implemented and what are the results for that
+6. Salary expectations
+7. Work status?
+8. Regular situational questions like what is the time and incident when you faced pressure while doing a project. How did you face it and what are the results
+
+
+experience :
+
+    1) Data migration project  >> What type of data migrated >> Sesmic , jason >> database name- cosmodb ,storage account , blob storage ,ADLs , ADF ,                                                                                    Synopse , databricks 
+    2) application migration >> migrated java application to azure cloud >> azure function app, web app , api management 
+
+1) I was working as DevOps engineer in my projcet 
+         My role was :
+
+               1) Finalising DevOps tools 
+               2) Involvment in high level architecture 
+                3) Low level architecture and design 
+                4) automation of infra cteation using terraform 
+                5) defining branching stretegy 
+                6) Creation of CICD - azure pipeline , Jenkins 
+                7) Data pipeline 
+                8) Integration of testing tools with CI pipeline 
+                9) Setting container (Docker based ) deployment approach 
+                10) Maintaining artifact - Nexus , jfrog , azure artifact
+                11) cost optomisation  process in place 
+                12) Setting up monitoring services - Splunk or azure monitor 
+
+
+
+3) plan >> code >> build >> test >>deploy >> monitor 
+           1) Project planning tools 
+                      >> Jira 
+                      >> Trello
+                      >> Azure Board 
+
+           2) Sources control tools 
+                     >> Git
+                     >> Github 
+                     >> Azure Repo 
+           3) For Build and deploy pipeline 
+                     >> Azure Pipelines (build & release pipeline )
+                     >> Jenkins pipeline 
+           4) Artifact tools 
+                     >> Nexsus
+                     >> Azure artifact 
+                     >> Jfrog artifact 
+           5) Container based deployment 
+                     >> Docker 
+                     >> Kubernetes 
+            6) Testing and code review tools
+                     >> Sonarqube 
+                     >> Sonar cloud 
+            7) Monitoring tools :
+                     >> Splunk 
+                     >> Azure Monitors 
+            8) Infra as code 
+                     >> Ansible (ansible playbbok)
+                     >> Terraform 
+           9) scripting 
+                >> Powershell 
+                >> Shell scripting 
+
+
+
+public cloud 
+     azure - resource group , key vault , AAD, storage account , Azure VM , ADLS , FUNCTION APP , ACR , AKS ,COSMODB ,WEB APP , APIM
+     aws - ec2 , lamda , s3 , RDS, autoscale , aks, eks , 
+
+
+3) Branching stretegy 
+           : Github and we are following the brancing stregy like 
+
+                     1) Dev - > Deployment branch
+                     2) Test -> Tested code 
+
+                     3) Master  -> final version of code ( production code) 
+
+  
+
+
+
+
+
+
+
