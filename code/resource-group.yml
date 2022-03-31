@@ -11,4 +11,6 @@
     AZURE_SECRET: '{{pl_azure_secret}}'
     AZURE_TENANT: '{{pl_azure_tenant}}'
     
+    
+    
     #this is to create RG
