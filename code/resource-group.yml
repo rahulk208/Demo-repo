@@ -10,7 +10,11 @@
     AZURE_CLIENT_ID: '{{pl_azure_client_id}}'
     AZURE_SECRET: '{{pl_azure_secret}}'
     AZURE_TENANT: '{{pl_azure_tenant}}'
+    AZURE_TENANT: '{{pl_azure_tenant}}'
+    AZURE_client_secrets: '{{pl_azure_client_secrets}}'
+    
     
     
     
     #this is to create RG
+    
