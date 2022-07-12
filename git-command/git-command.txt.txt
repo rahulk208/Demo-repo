@@ -1,3 +1,5 @@
+# Basic Git command 
+
 git clone <repo-url> : to clone repo
 
 git clone -b <branch-name>  <repo-url>
