@@ -9,3 +9,5 @@ git add <file/foldername>  : add your changes to local repo
 git commit -m "msg" : to commit your changes to local repo 
 
 git push : to commit your changes to main repo 
+
+git pull <repo> 
